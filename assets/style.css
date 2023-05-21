@@ -1,0 +1,50 @@
+
+
+
+
+
+
+h1 {
+    background: purple;
+    width: 300px;
+    height: 300px;
+    border: 2px, rebeccapurple;
+    padding: 10px;
+    color: aliceblue;
+
+}
+    
+
+button {
+    background-color: blue;
+    color: azure;
+    border: none;
+    height: 30px;
+    width: 70px;
+}
+
+
+
+.contactme {
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    background-color: mediumpurple; 
+    padding: 35px;
+    text-align: center;
+    color: navy;
+}
+
+
+
+footer {            
+        background-color: mediumpurple; 
+        color: navy;
+        bottom: 0;
+        left: 0;
+        position: fixed;
+        right: 0;
+        padding: 12px;
+        text-align: center;
+    }
